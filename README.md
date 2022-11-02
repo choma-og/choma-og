@@ -50,10 +50,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/choma-og/choma-og/blob/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="@destroksie" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
