@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am Artem Golubchikov,i am from Barnaul</p>
+<p align="left">DUST</p>
 
 ###
 
